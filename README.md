@@ -1,4 +1,4 @@
-# **Practice Programs - Java**
+# Practice Programs - Java
 
 Welcome to the **Practice Programs - Java** repository! This repository contains a collection of Java programs created to practice and demonstrate various concepts of the Java programming language. It is designed for beginners and intermediate learners to explore core Java functionalities and object-oriented programming principles.
 
