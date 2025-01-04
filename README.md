@@ -2,7 +2,7 @@
 
 Welcome to the **Practice Programs - Java** repository! This repository contains a collection of Java programs created to practice and demonstrate various concepts of the Java programming language. It is designed for beginners and intermediate learners to explore core Java functionalities and object-oriented programming principles.
 
-## **Repository Structure**
+# Repository Structure
 
 - **JavaSE8**  
   Contains programs that leverage Java SE 8 features, such as lambda expressions, the Streams API, and the new Date and Time API.
